@@ -24,3 +24,13 @@ Meu primeiro CRUD em Java com Spring Boot.
 2. Abra no IntelliJ
 3. Rode a classe `Crud1Application`
 4. Acesse `http://localhost:8080/products`
+
+## Autor
+ Luis Fernando
+
+Portfolio: https://luisgalvani.vercel.app
+LinkedIn: https://www.linkedin.com/in/luisfernandovieira
+GitHub: https://github.com/luisvfernando7-a11y
+Email: luisvfernando7@gmail.com
+
+ 
