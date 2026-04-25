@@ -1,0 +1,26 @@
+### Criar produto
+POST http://localhost:8080/products
+Content-Type: application/json
+
+{
+  "name": "Camiseta",
+  "priceInCents": 4990
+}
+
+### Listar todos
+GET http://localhost:8080/products
+
+### Buscar por ID
+GET http://localhost:8080/products/1
+
+### Atualizar
+PUT http://localhost:8080/products/1
+Content-Type: application/json
+
+{
+  "name": "Camiseta Atualizada",
+  "priceInCents": 5990
+}
+
+### Deletar
+DELETE http://localhost:8080/products/1
